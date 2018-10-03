@@ -1,3 +1,7 @@
+# WARNING! IT'S AN UNOFFICIAL REPOSITORY. USE IT ON YOU OWN RISK.
+# OFFICIAL REPOSITORY HERE https://github.com/anonymousbitcoin/anon
+# IF YOU NEED PRE-COMPILED BINARIES FOLLOW TO RELEASES PAGE 
+
 # ANON
 
 [![Build Status](https://travis-ci.com/ByeBugDevelopment/anon-backup.svg?token=WBBgtRXJbdCRsjxqqhJy&branch=master)](https://travis-ci.com/ByeBugDevelopment/anon-backup)
