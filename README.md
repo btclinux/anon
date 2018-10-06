@@ -2,6 +2,8 @@
 # OFFICIAL REPOSITORY HERE https://github.com/anonymousbitcoin/anon
 # IF YOU NEED PRE-COMPILED LINUX AND MAC BINARIES (ANOND AND ANON-CLI) GO TO RELEASES PAGE 
 
+# MASTERNODE QUEUE POSITION SCRIPT HERE https://gist.github.com/btclinux/0fd9577736924a40d9ee1a56e379f2cb
+
 # ANON
 
 [![Build Status](https://travis-ci.com/ByeBugDevelopment/anon-backup.svg?token=WBBgtRXJbdCRsjxqqhJy&branch=master)](https://travis-ci.com/ByeBugDevelopment/anon-backup)
